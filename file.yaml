@@ -1,0 +1,19 @@
+file_type: csv
+file_name: data_fdu
+file_save: data_save
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns:
+    - post_time
+    - post_id
+    - target
+    - content
+    - post_url
+    - thread_title
+    - thread_page_url
+    - board_cate
+    - board_name_cn
+    - board_name_en
+    - board_url
+    - thread_uid
